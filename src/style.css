@@ -1,0 +1,47 @@
+body {
+    background-image: url("imagem/dali1.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 290px;
+    padding-right: 290px;
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 14pt;
+}
+
+#root {
+    padding:3px;
+    text-align: justify;
+
+}
+.msg1 {
+    text-align: justify;
+}
+
+.align {
+    text-align: center;
+
+}
+
+section {
+    background-image: url("imagem/daliOK.jpg");
+    border-radius: 10px ;
+    padding: 10px;
+    margin: auto;
+    width: auto;  
+}
+
+.input {
+    border-radius: 9px;
+    font-style: italic;
+    font-size: 13pt;
+}
+
+#res {
+    background-image: url("imagem/daliOK.jpg");
+    height: 80px;
+    border-radius: 9px;
+    padding-top: 8px;
+    width: 520px;
+    margin: auto;
+}

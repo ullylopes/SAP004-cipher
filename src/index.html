@@ -1,14 +1,54 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
+
+<head>
+  <meta charset="utf-8">
+  <title>A Persistência da Memória...</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <section>
+
     <div id="root">
-      <h1>Hello world!</h1>
+      <h1 class="align"><strong>A Persistência da Memória</strong></h1>
+      A Persistência da Memória é uma visão subjetiva da temporalidade e das suas implicações, seja na obra
+      de arte ou nas lembranças. É uma homenagem ao tempo interior e inconsciente, que tem sua própria forma de ser
+      contada e que foge à racionalidade.<br>
+      A Persistência da Memória nos fala sobre a noção da temporalidade e da memória.<br><br>
+    </div><br>
+
+    <div id="msg1">
+      Escreva uma mensagem que
+      você quer que faça parte da sua memória e não seja esquecida.<br> Codifique-a para que seja particular e a
+      decodifique quando desejar.<br><br>
     </div>
-    <script src="index.js" type="module"></script>
-  </body>
+    <div class="align">
+      <form action="cipher.js">
+        <textarea id="msg" class="input" rows="5" cols="50"></textarea></form>
+    </div>
+    <div id="res" class="align"> <br>
+      <br>
+      <br>
+      <br>
+    </div>
+
+    <p class="align"><em>
+        Indique a posição de deslocamento desejada:
+        <input type="number" min="1" max="900" class="input" id="offset"><br><br>
+      </em>
+
+      <input type="button" id="cipher" class="input" value="Codificar">
+      <input type="button" id="decipher" class="input" value="Decodificar">
+    </p>
+
+  </section>
+
+  <footer>
+    <p class="align"><em> © APersistenciaDaMemoria</em></p>
+  </footer>
+
+  <script src="index.js" type="module"></script>
+</body>
+
 </html>
