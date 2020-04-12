@@ -10,7 +10,7 @@ Essa obra leva ao questionamento metalinguístico. Como a arte pode fazer parte 
 
 
 
-# *Objetivo do programa
+# *Objetivo do Programa
 
   O objetivo desse projeto é que pessoas que se interessem pela arte, se sintam inspiradas a refletir sobre a questão da temporalidade da memória e da arte surrealista em geral. Possibilitando o usuário escrever uma mensagem que gostaria de eternizar na memória, e de forma particular codificá-la ou decodificá-la usando a ferramenta criada no programa.
 
@@ -30,5 +30,6 @@ O programa possui:
 * Git e Git Hub para controle de versões.
 * Jest e ESLint para testes unitários.
 * Trello para planejamento e organização
+
 
 # *Link do projeto:
