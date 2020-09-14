@@ -8,7 +8,7 @@ As obras surrealistas dão margem à diversas interpretações já que são carr
 A Persistência da Memória nos fala sobre a noção da temporalidade e da memória. A memória é um método de marcar o tempo de uma forma interna e subjetiva. O tempo da memória não é o mesmo do relógio comum. Uma memória antiga pode ser lembrada como algo recente, assim como uma memória recente pode se assemelhar a algo antigo.
 Essa obra leva ao questionamento metalinguístico. Como a arte pode fazer parte da memória e não ser esquecida? E como isso leva o sujeito que produz a obra a procurar um pouco da imortalidade em seus quadros?
 
-![](.src/imagem/cifradecesar.png)
+![](/src/imagem/cifradecesar.jpeg)
 
 # Objetivo do programa
 
